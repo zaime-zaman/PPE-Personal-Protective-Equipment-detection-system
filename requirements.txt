@@ -1,0 +1,5 @@
+opencv-python==4.8.1.78
+ultralytics==8.0.195
+streamlit==1.28.1
+numpy==1.24.3
+pyyaml==6.0
